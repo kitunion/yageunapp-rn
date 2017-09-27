@@ -6,6 +6,8 @@ node_modules/
 .expo/
 npm-debug.*
 
+*.swp
+
 
 # 2. react-native 로 프로젝트 생성시의 .gitignore 설정을 아래에 추가한다.
 #  2.1. react-natvie: create-react-native-app으로 생성하기 전의 프로젝트 생성 방법.
