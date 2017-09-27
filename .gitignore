@@ -7,6 +7,7 @@ node_modules/
 npm-debug.*
 
 *.swp
+package-lock.json
 
 
 # 2. react-native 로 프로젝트 생성시의 .gitignore 설정을 아래에 추가한다.
