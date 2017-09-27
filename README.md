@@ -1,6 +1,17 @@
 # yageunapp-rn
 야근앱 - react native
 
+### npm install
+최초 git clone 하신 후, 'npm intall' 하시면 node_modules가 설치됩니다.
+그러면 local애서 creaet-react-native-app으로 최초 프로젝트 생성한 것과 같은 상태가 됩니다.
+
+```
+$ npm install
+```
+
+이후 과정은 아래 설명을 따라가시면 됩니다.
+
+
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
 
 Below you'll find information about performing common tasks. The most recent version of this guide is available [here](https://github.com/react-community/create-react-native-app/blob/master/react-native-scripts/template/README.md).
