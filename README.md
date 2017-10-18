@@ -11,6 +11,20 @@ $ npm install
 
 이후 과정은 아래 설명을 따라가시면 됩니다.
 
+### 야근앱 회의록
+```
+http://www.itunion.or.kr/xe/index.php?mid=committee&category=998126&document_srl=1079509
+```
+
+### 이전 야근앱 소스
+
+야근앱 소스 레파지토리입니다.
+소스 접근을 원하시는 분은 itnodong@gmail.com으로 권한 요청해 주세요.
+
+```
+git@bitbucket.org:noovertime/yageunapp.git
+```
+
 
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
 
